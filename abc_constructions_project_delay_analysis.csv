@@ -1,0 +1,121 @@
+Project ID,Project Type,Activity,Contractor,Planned Days,Actual Days,Delay,Weather,Labour Required,Labour Available,Material Delay,Status
+PRJ-2025-101,Commercial Building,Excavation & Earthwork,BuildTech Engineering,13,22,9,Extreme Heat,33,31,No,Critical Delay
+PRJ-2025-101,Commercial Building,Foundation & Piling,Vanguard MEP Services,30,30,0,Clear / Normal,39,38,No,On Time
+PRJ-2025-101,Commercial Building,Reinforcement Tying,Apex Civil Infra Pvt Ltd,9,21,12,Unseasonal Rain,39,33,No,Critical Delay
+PRJ-2025-101,Commercial Building,Formwork & Shuttering,Apex Civil Infra Pvt Ltd,11,28,17,Extreme Heat,48,43,Yes - Vendor Delay,Critical Delay
+PRJ-2025-101,Commercial Building,Concrete Pouring,BuildTech Engineering,25,40,15,Unseasonal Rain,62,41,No,Critical Delay
+PRJ-2025-101,Commercial Building,Masonry & Blockwork,BuildTech Engineering,14,29,15,Extreme Heat,59,57,Yes - Supply Shortage,Critical Delay
+PRJ-2025-101,Commercial Building,Structural Steel Erection,Apex Civil Infra Pvt Ltd,33,53,20,Unseasonal Rain,30,25,Yes - Vendor Delay,Critical Delay
+PRJ-2025-101,Commercial Building,MEP Conduit Rough-Ins,BuildTech Engineering,12,34,22,Clear / Normal,26,17,Yes - Vendor Delay,Critical Delay
+PRJ-2025-101,Commercial Building,Plumbing & Piping,BuildTech Engineering,9,36,27,Extreme Heat,33,21,Yes - Supply Shortage,Critical Delay
+PRJ-2025-101,Commercial Building,HVAC Ducting,Soma Structural Solutions,11,31,20,Unseasonal Rain,31,26,Yes - Vendor Delay,Critical Delay
+PRJ-2025-102,Residential Apartment,Plastering & Wall Finish,BuildTech Engineering,13,37,24,Unseasonal Rain,44,32,No,Critical Delay
+PRJ-2025-102,Residential Apartment,Waterproofing & Testing,BuildTech Engineering,8,29,21,Clear / Normal,58,45,Yes - Quality Issue,Critical Delay
+PRJ-2025-102,Residential Apartment,Flooring & Tiling,Urban Frameworks Inc,24,33,9,Clear / Normal,36,32,Yes - Quality Issue,Critical Delay
+PRJ-2025-102,Residential Apartment,Façade & Structural Glazing,BuildTech Engineering,29,43,14,Heavy Rain / Monsoon,43,26,No,Critical Delay
+PRJ-2025-102,Residential Apartment,Painting & Interiors,Soma Structural Solutions,7,29,22,Heavy Rain / Monsoon,44,37,Yes - Supply Shortage,Critical Delay
+PRJ-2025-102,Residential Apartment,Excavation & Earthwork,Apex Civil Infra Pvt Ltd,12,26,14,Unseasonal Rain,53,43,No,Critical Delay
+PRJ-2025-102,Residential Apartment,Foundation & Piling,Vanguard MEP Services,26,39,13,Clear / Normal,55,55,Yes - Quality Issue,Critical Delay
+PRJ-2025-102,Residential Apartment,Reinforcement Tying,Soma Structural Solutions,9,18,9,Extreme Heat,58,59,Yes - Supply Shortage,Critical Delay
+PRJ-2025-102,Residential Apartment,Formwork & Shuttering,Apex Civil Infra Pvt Ltd,10,36,26,Unseasonal Rain,64,55,Yes - Supply Shortage,Critical Delay
+PRJ-2025-102,Residential Apartment,Concrete Pouring,Apex Civil Infra Pvt Ltd,25,38,13,Clear / Normal,37,30,Yes - Quality Issue,Critical Delay
+PRJ-2025-103,Bridge Infrastructure,Masonry & Blockwork,Vanguard MEP Services,21,31,10,Unseasonal Rain,54,46,No,Critical Delay
+PRJ-2025-103,Bridge Infrastructure,Structural Steel Erection,Vanguard MEP Services,28,31,3,Extreme Heat,29,27,No,Minor Delay
+PRJ-2025-103,Bridge Infrastructure,MEP Conduit Rough-Ins,Vanguard MEP Services,7,7,0,Extreme Heat,27,27,No,On Time
+PRJ-2025-103,Bridge Infrastructure,Plumbing & Piping,Soma Structural Solutions,13,31,18,Unseasonal Rain,53,53,Yes - Vendor Delay,Critical Delay
+PRJ-2025-103,Bridge Infrastructure,HVAC Ducting,BuildTech Engineering,7,20,13,Heavy Rain / Monsoon,40,22,No,Critical Delay
+PRJ-2025-103,Bridge Infrastructure,Plastering & Wall Finish,Urban Frameworks Inc,19,19,0,Clear / Normal,56,56,No,On Time
+PRJ-2025-103,Bridge Infrastructure,Waterproofing & Testing,Urban Frameworks Inc,10,21,11,Unseasonal Rain,43,39,No,Critical Delay
+PRJ-2025-103,Bridge Infrastructure,Flooring & Tiling,Apex Civil Infra Pvt Ltd,20,42,22,Unseasonal Rain,51,43,Yes - Vendor Delay,Critical Delay
+PRJ-2025-103,Bridge Infrastructure,Façade & Structural Glazing,BuildTech Engineering,27,27,0,Clear / Normal,58,52,No,On Time
+PRJ-2025-103,Bridge Infrastructure,Painting & Interiors,Apex Civil Infra Pvt Ltd,15,35,20,Extreme Heat,38,33,Yes - Quality Issue,Critical Delay
+PRJ-2025-104,Industrial Facility,Excavation & Earthwork,Vanguard MEP Services,15,22,7,Extreme Heat,40,38,Yes - Supply Shortage,Critical Delay
+PRJ-2025-104,Industrial Facility,Foundation & Piling,BuildTech Engineering,30,61,31,Unseasonal Rain,30,17,Yes - Vendor Delay,Critical Delay
+PRJ-2025-104,Industrial Facility,Reinforcement Tying,Vanguard MEP Services,14,14,0,Extreme Heat,56,55,No,On Time
+PRJ-2025-104,Industrial Facility,Formwork & Shuttering,Vanguard MEP Services,10,10,0,Clear / Normal,23,18,No,On Time
+PRJ-2025-104,Industrial Facility,Concrete Pouring,Apex Civil Infra Pvt Ltd,33,36,3,Clear / Normal,25,24,No,Minor Delay
+PRJ-2025-104,Industrial Facility,Masonry & Blockwork,Vanguard MEP Services,22,33,11,Unseasonal Rain,23,23,No,Critical Delay
+PRJ-2025-104,Industrial Facility,Structural Steel Erection,BuildTech Engineering,29,52,23,Clear / Normal,22,12,Yes - Supply Shortage,Critical Delay
+PRJ-2025-104,Industrial Facility,MEP Conduit Rough-Ins,Apex Civil Infra Pvt Ltd,11,13,2,Clear / Normal,21,20,No,Minor Delay
+PRJ-2025-104,Industrial Facility,Plumbing & Piping,BuildTech Engineering,8,32,24,Clear / Normal,50,32,Yes - Vendor Delay,Critical Delay
+PRJ-2025-104,Industrial Facility,HVAC Ducting,Urban Frameworks Inc,7,10,3,Clear / Normal,31,26,No,Minor Delay
+PRJ-2025-105,Commercial Building,Plastering & Wall Finish,Apex Civil Infra Pvt Ltd,19,36,17,Unseasonal Rain,61,59,Yes - Vendor Delay,Critical Delay
+PRJ-2025-105,Commercial Building,Waterproofing & Testing,Apex Civil Infra Pvt Ltd,15,18,3,Clear / Normal,51,48,No,Minor Delay
+PRJ-2025-105,Commercial Building,Flooring & Tiling,BuildTech Engineering,21,21,0,Clear / Normal,51,40,No,On Time
+PRJ-2025-105,Commercial Building,Façade & Structural Glazing,Vanguard MEP Services,19,19,0,Extreme Heat,58,58,No,On Time
+PRJ-2025-105,Commercial Building,Painting & Interiors,Urban Frameworks Inc,9,13,4,Unseasonal Rain,32,33,No,Minor Delay
+PRJ-2025-105,Commercial Building,Excavation & Earthwork,BuildTech Engineering,14,33,19,Clear / Normal,22,16,Yes - Supply Shortage,Critical Delay
+PRJ-2025-105,Commercial Building,Foundation & Piling,Apex Civil Infra Pvt Ltd,27,45,18,Heavy Rain / Monsoon,22,21,Yes - Supply Shortage,Critical Delay
+PRJ-2025-105,Commercial Building,Reinforcement Tying,Apex Civil Infra Pvt Ltd,13,20,7,Unseasonal Rain,34,32,No,Critical Delay
+PRJ-2025-105,Commercial Building,Formwork & Shuttering,BuildTech Engineering,13,36,23,Clear / Normal,42,22,Yes - Supply Shortage,Critical Delay
+PRJ-2025-105,Commercial Building,Concrete Pouring,BuildTech Engineering,23,48,25,Heavy Rain / Monsoon,63,47,No,Critical Delay
+PRJ-2025-106,Residential Apartment,Masonry & Blockwork,BuildTech Engineering,23,41,18,Clear / Normal,36,29,Yes - Supply Shortage,Critical Delay
+PRJ-2025-106,Residential Apartment,Structural Steel Erection,Urban Frameworks Inc,31,37,6,Heavy Rain / Monsoon,37,38,No,Critical Delay
+PRJ-2025-106,Residential Apartment,MEP Conduit Rough-Ins,Apex Civil Infra Pvt Ltd,9,21,12,Clear / Normal,25,24,Yes - Quality Issue,Critical Delay
+PRJ-2025-106,Residential Apartment,Plumbing & Piping,Urban Frameworks Inc,14,23,9,Unseasonal Rain,26,24,No,Critical Delay
+PRJ-2025-106,Residential Apartment,HVAC Ducting,BuildTech Engineering,7,16,9,Extreme Heat,30,26,No,Critical Delay
+PRJ-2025-106,Residential Apartment,Plastering & Wall Finish,BuildTech Engineering,13,40,27,Heavy Rain / Monsoon,62,45,Yes - Quality Issue,Critical Delay
+PRJ-2025-106,Residential Apartment,Waterproofing & Testing,Vanguard MEP Services,15,42,27,Unseasonal Rain,56,48,Yes - Supply Shortage,Critical Delay
+PRJ-2025-106,Residential Apartment,Flooring & Tiling,Soma Structural Solutions,23,30,7,Unseasonal Rain,45,43,No,Critical Delay
+PRJ-2025-106,Residential Apartment,Façade & Structural Glazing,Apex Civil Infra Pvt Ltd,34,36,2,Clear / Normal,64,66,No,Minor Delay
+PRJ-2025-106,Residential Apartment,Painting & Interiors,Urban Frameworks Inc,8,28,20,Heavy Rain / Monsoon,61,56,Yes - Quality Issue,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Excavation & Earthwork,Apex Civil Infra Pvt Ltd,20,42,22,Heavy Rain / Monsoon,59,48,No,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Foundation & Piling,Apex Civil Infra Pvt Ltd,29,45,16,Extreme Heat,45,45,Yes - Vendor Delay,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Reinforcement Tying,BuildTech Engineering,8,27,19,Unseasonal Rain,49,26,No,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Formwork & Shuttering,Apex Civil Infra Pvt Ltd,7,20,13,Clear / Normal,22,20,Yes - Quality Issue,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Concrete Pouring,Soma Structural Solutions,24,46,22,Unseasonal Rain,52,45,Yes - Supply Shortage,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Masonry & Blockwork,BuildTech Engineering,21,39,18,Clear / Normal,34,19,Yes - Supply Shortage,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Structural Steel Erection,Apex Civil Infra Pvt Ltd,20,26,6,Extreme Heat,25,20,No,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,MEP Conduit Rough-Ins,Vanguard MEP Services,11,17,6,Clear / Normal,35,35,Yes - Vendor Delay,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,Plumbing & Piping,Apex Civil Infra Pvt Ltd,10,19,9,Clear / Normal,52,51,Yes - Vendor Delay,Critical Delay
+PRJ-2025-107,Bridge Infrastructure,HVAC Ducting,Soma Structural Solutions,11,20,9,Clear / Normal,63,65,Yes - Quality Issue,Critical Delay
+PRJ-2025-108,Industrial Facility,Plastering & Wall Finish,Vanguard MEP Services,21,33,12,Clear / Normal,23,19,Yes - Vendor Delay,Critical Delay
+PRJ-2025-108,Industrial Facility,Waterproofing & Testing,Apex Civil Infra Pvt Ltd,15,21,6,Clear / Normal,30,25,No,Critical Delay
+PRJ-2025-108,Industrial Facility,Flooring & Tiling,Urban Frameworks Inc,24,24,0,Clear / Normal,47,46,No,On Time
+PRJ-2025-108,Industrial Facility,Façade & Structural Glazing,Urban Frameworks Inc,22,37,15,Clear / Normal,26,21,Yes - Quality Issue,Critical Delay
+PRJ-2025-108,Industrial Facility,Painting & Interiors,Urban Frameworks Inc,10,24,14,Unseasonal Rain,35,30,No,Critical Delay
+PRJ-2025-108,Industrial Facility,Excavation & Earthwork,BuildTech Engineering,24,38,14,Clear / Normal,23,14,Yes - Supply Shortage,Critical Delay
+PRJ-2025-108,Industrial Facility,Foundation & Piling,Urban Frameworks Inc,29,33,4,Clear / Normal,23,18,No,Minor Delay
+PRJ-2025-108,Industrial Facility,Reinforcement Tying,Urban Frameworks Inc,7,19,12,Clear / Normal,44,42,Yes - Quality Issue,Critical Delay
+PRJ-2025-108,Industrial Facility,Formwork & Shuttering,Soma Structural Solutions,8,16,8,Heavy Rain / Monsoon,32,29,No,Critical Delay
+PRJ-2025-108,Industrial Facility,Concrete Pouring,Urban Frameworks Inc,32,48,16,Clear / Normal,64,53,Yes - Supply Shortage,Critical Delay
+PRJ-2025-109,Commercial Building,Masonry & Blockwork,Apex Civil Infra Pvt Ltd,22,36,14,Clear / Normal,46,42,Yes - Supply Shortage,Critical Delay
+PRJ-2025-109,Commercial Building,Structural Steel Erection,Vanguard MEP Services,32,43,11,Heavy Rain / Monsoon,62,54,No,Critical Delay
+PRJ-2025-109,Commercial Building,MEP Conduit Rough-Ins,BuildTech Engineering,9,40,31,Unseasonal Rain,45,32,Yes - Quality Issue,Critical Delay
+PRJ-2025-109,Commercial Building,Plumbing & Piping,Apex Civil Infra Pvt Ltd,12,20,8,Unseasonal Rain,27,26,No,Critical Delay
+PRJ-2025-109,Commercial Building,HVAC Ducting,Vanguard MEP Services,7,7,0,Extreme Heat,28,26,No,On Time
+PRJ-2025-109,Commercial Building,Plastering & Wall Finish,Apex Civil Infra Pvt Ltd,19,22,3,Clear / Normal,46,45,No,Minor Delay
+PRJ-2025-109,Commercial Building,Waterproofing & Testing,Soma Structural Solutions,13,27,14,Clear / Normal,55,46,Yes - Supply Shortage,Critical Delay
+PRJ-2025-109,Commercial Building,Flooring & Tiling,Soma Structural Solutions,21,28,7,Clear / Normal,24,20,Yes - Supply Shortage,Critical Delay
+PRJ-2025-109,Commercial Building,Façade & Structural Glazing,BuildTech Engineering,31,54,23,Clear / Normal,36,23,Yes - Supply Shortage,Critical Delay
+PRJ-2025-109,Commercial Building,Painting & Interiors,Urban Frameworks Inc,8,23,15,Heavy Rain / Monsoon,36,29,Yes - Supply Shortage,Critical Delay
+PRJ-2025-110,Residential Apartment,Excavation & Earthwork,BuildTech Engineering,20,43,23,Extreme Heat,46,35,Yes - Supply Shortage,Critical Delay
+PRJ-2025-110,Residential Apartment,Foundation & Piling,BuildTech Engineering,28,46,18,Clear / Normal,62,39,Yes - Quality Issue,Critical Delay
+PRJ-2025-110,Residential Apartment,Reinforcement Tying,Apex Civil Infra Pvt Ltd,8,29,21,Heavy Rain / Monsoon,54,53,Yes - Vendor Delay,Critical Delay
+PRJ-2025-110,Residential Apartment,Formwork & Shuttering,BuildTech Engineering,12,24,12,Clear / Normal,25,22,Yes - Quality Issue,Critical Delay
+PRJ-2025-110,Residential Apartment,Concrete Pouring,Apex Civil Infra Pvt Ltd,33,55,22,Extreme Heat,25,20,Yes - Quality Issue,Critical Delay
+PRJ-2025-110,Residential Apartment,Masonry & Blockwork,Urban Frameworks Inc,23,23,0,Clear / Normal,45,40,No,On Time
+PRJ-2025-110,Residential Apartment,Structural Steel Erection,Urban Frameworks Inc,30,30,0,Clear / Normal,30,28,No,On Time
+PRJ-2025-110,Residential Apartment,MEP Conduit Rough-Ins,Apex Civil Infra Pvt Ltd,7,20,13,Clear / Normal,39,36,Yes - Vendor Delay,Critical Delay
+PRJ-2025-110,Residential Apartment,Plumbing & Piping,Apex Civil Infra Pvt Ltd,13,13,0,Extreme Heat,31,30,No,On Time
+PRJ-2025-110,Residential Apartment,HVAC Ducting,Apex Civil Infra Pvt Ltd,12,28,16,Extreme Heat,57,57,Yes - Quality Issue,Critical Delay
+PRJ-2025-111,Bridge Infrastructure,Plastering & Wall Finish,BuildTech Engineering,15,24,9,Clear / Normal,50,27,No,Critical Delay
+PRJ-2025-111,Bridge Infrastructure,Waterproofing & Testing,Soma Structural Solutions,7,11,4,Clear / Normal,45,38,No,Minor Delay
+PRJ-2025-111,Bridge Infrastructure,Flooring & Tiling,BuildTech Engineering,17,17,0,Clear / Normal,21,15,No,On Time
+PRJ-2025-111,Bridge Infrastructure,Façade & Structural Glazing,Apex Civil Infra Pvt Ltd,19,19,0,Clear / Normal,29,29,No,On Time
+PRJ-2025-111,Bridge Infrastructure,Painting & Interiors,Vanguard MEP Services,10,10,0,Clear / Normal,23,21,No,On Time
+PRJ-2025-111,Bridge Infrastructure,Excavation & Earthwork,Vanguard MEP Services,22,26,4,Heavy Rain / Monsoon,42,40,No,Minor Delay
+PRJ-2025-111,Bridge Infrastructure,Foundation & Piling,Urban Frameworks Inc,31,31,0,Clear / Normal,27,27,No,On Time
+PRJ-2025-111,Bridge Infrastructure,Reinforcement Tying,Apex Civil Infra Pvt Ltd,9,18,9,Clear / Normal,36,29,Yes - Quality Issue,Critical Delay
+PRJ-2025-111,Bridge Infrastructure,Formwork & Shuttering,Apex Civil Infra Pvt Ltd,12,26,14,Extreme Heat,35,34,Yes - Vendor Delay,Critical Delay
+PRJ-2025-111,Bridge Infrastructure,Concrete Pouring,Apex Civil Infra Pvt Ltd,22,41,19,Extreme Heat,32,27,Yes - Supply Shortage,Critical Delay
+PRJ-2025-112,Industrial Facility,Masonry & Blockwork,BuildTech Engineering,19,23,4,Clear / Normal,24,24,No,Minor Delay
+PRJ-2025-112,Industrial Facility,Structural Steel Erection,Apex Civil Infra Pvt Ltd,32,51,19,Unseasonal Rain,22,21,Yes - Supply Shortage,Critical Delay
+PRJ-2025-112,Industrial Facility,MEP Conduit Rough-Ins,Vanguard MEP Services,10,12,2,Extreme Heat,25,25,No,Minor Delay
+PRJ-2025-112,Industrial Facility,Plumbing & Piping,Vanguard MEP Services,11,13,2,Clear / Normal,37,32,No,Minor Delay
+PRJ-2025-112,Industrial Facility,HVAC Ducting,BuildTech Engineering,7,25,18,Heavy Rain / Monsoon,51,38,No,Critical Delay
+PRJ-2025-112,Industrial Facility,Plastering & Wall Finish,Urban Frameworks Inc,24,24,0,Extreme Heat,22,19,No,On Time
+PRJ-2025-112,Industrial Facility,Waterproofing & Testing,BuildTech Engineering,15,25,10,Extreme Heat,32,18,No,Critical Delay
+PRJ-2025-112,Industrial Facility,Flooring & Tiling,Urban Frameworks Inc,23,34,11,Clear / Normal,64,56,Yes - Vendor Delay,Critical Delay
+PRJ-2025-112,Industrial Facility,Façade & Structural Glazing,Apex Civil Infra Pvt Ltd,30,41,11,Clear / Normal,42,38,Yes - Quality Issue,Critical Delay
+PRJ-2025-112,Industrial Facility,Painting & Interiors,Soma Structural Solutions,15,32,17,Unseasonal Rain,31,28,Yes - Quality Issue,Critical Delay
